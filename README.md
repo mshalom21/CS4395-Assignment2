@@ -1,4 +1,4 @@
-# starter code for a2
+# WORD EMBEDDIGN ADN DATA EMBEDDING FILE ARE TOO LARGE TO UPLOAD TO GITHUB
 
 Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of the class for ffnn.py and rnn.py
 
